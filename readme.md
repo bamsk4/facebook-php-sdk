@@ -128,3 +128,5 @@ Report Issues/Bugs
 [Bugs](https://developers.facebook.com/bugs)
 
 [Questions](http://facebook.stackoverflow.com)
+
+[Bamsk4](https://github.com/bamsk4)
